@@ -8,6 +8,6 @@ Die Eingabe des Schulweges erfolgt freiwillig. Informieren Sie Ihr Kind, ob es d
 Hier ist der [Schulwegcheck](https://www.schulwegcheck.de) verlinkt.
 Danach muss zunächst das Tab **Karte** ausgewählt werden und dann ein Passwort eingegeben werden. Zum Üben können Sie die Eingaben mit dem Testpasswort **schule** durchführen. Das tatsächliche Passwort erfahren die Schüler erst während der Befragung.
 
-[Aufrufen](Aufrufen.gif)
+![Aufrufen](Aufrufen.gif)
 
 

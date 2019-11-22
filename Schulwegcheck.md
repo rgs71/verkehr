@@ -6,7 +6,7 @@ Die Eingabe des Schulweges erfolgt freiwillig. Sprich mit Deinen Eltern, ob Du d
 # Aufrufen der Webseite
 
 Hier ist der [Schulwegcheck](https://www.schulwegcheck.de) verlinkt.
-Danach muss Du zunächst das Tab **Karte** ausgewählen und dann ein Passwort eingegeben. Zum Üben kannst Du die Eingaben mit dem Testpasswort **schule** durchführen. Eventuell helfen Dir Deine Eltern bei der Beantwortung, Du kannst Dir auch Notizen auf einen Zettel machen (z.B. genauer Name der Haltestellen) und diesen später nutzen, wenn die Befragung an der Schule durchgeführt wird. Das tatsächliche Passwort gibt Dir Dein Lehrer erst während der Befragung.
+Danach muss Du zunächst das Tab **Karte** ausgewählen und danach **Wegpunkte/Schulrouten** auswählen. Jetzt musst Du ein Passwort eingegeben. Zum Üben kannst Du die Eingaben mit dem Testpasswort **schule** durchführen. Eventuell helfen Dir Deine Eltern bei der Beantwortung, Du kannst Dir auch Notizen auf einen Zettel machen (z.B. genauer Name der Haltestellen) und diesen später nutzen, wenn die Befragung an der Schule durchgeführt wird. Das tatsächliche Passwort gibt Dir Dein Lehrer erst während der Befragung.
 
 ![Aufrufen](Aufrufen.gif)
 

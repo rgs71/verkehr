@@ -5,5 +5,5 @@ Als Übung sollten Sie die Befragung bereits vorher mit Ihren Kindern durchspiel
 
 Die Befragung gliedert sich in zwei Bereiche. Der erste Teil fragt die verwendeten Verkehrsmittel und Gewohnheiten ab, im zweiten Teil kann der Schulweg genau eingegeben werden.
 
-* [Schülerbefragung](schülerbefragung.md)
+* [Schülerbefragung](Schülerbefragung.md)
 * [Teil 2](teil2.md)

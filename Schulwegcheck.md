@@ -24,7 +24,16 @@ Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn man also mit 
 
 ![Wege](Wege.gif)
 
-# Gefahrenpunkte hinzufügen
+# Problemstelle hinzufügen
 
+Für jeden Teil des Schulwegs können mehrer Problemstelle markiert werden. 
 
-![Gefahrenpunkte](Gefahrenpunkte.gif)
+* Für jeden Gefahrenpunkt muss der Knopf **neuer Problemstelle** gedrückt werden.
+* Danach kann durch einen **einfachen Rechtsklick** ein Marker für die Problemstelle gesetzt werden.
+* Dieser Marker kann bei **gedrückter Linkermaustaste** noch verschoben werden bzw. durch **doppleten Linksklick** gelöscht werden.
+* Danach sollte noch eine Beschreibung der Problemstelle angegeben werden (z.B. parkende Autos versperren die Sicht, kein Fussgängerüberweg, fehlender Fahrradweg, schlechte Beleuchtung etc.)
+* Die Problemstelle wird dann über **Problemstelle speichern** gesichert.
+
+![Problemstelle](Problemstelle.gif)
+
+**Diese beiden Schritte werden dann für alle Abschnitte des Schulwegs angegeben.**

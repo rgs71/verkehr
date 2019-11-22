@@ -57,3 +57,6 @@ Für alle Vehrkehrsmittel wird abgefragt, zu welchen Problemen es kommt. Du kann
 
 ![Auto](Auto.gif)
 
+## Ende der Befragung
+
+Nachdem Du den ersten Teil beantwortet hast wirst Du auf die Seite des [Schulwegchecks](Schulwegcheck.md) weitergeleitet. Dort kannst Du Angaben zu Deinem Schulweg machen.

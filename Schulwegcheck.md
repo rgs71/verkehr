@@ -1,23 +1,23 @@
 # Hinweis
 
-Die Eingabe des Schulweges erfolgt freiwillig. Informieren Sie Ihr Kind, ob es diese Angabe in der Schule machen darf. Eventuell können Sie, um nicht den genauen Startpunkt anzugeben, den Weg ab einer Kreuzung in der Nähe des Wohnorts beginnen.
+Die Eingabe des Schulweges erfolgt freiwillig. Sprich mit Deinen Eltern, ob Du diese Angabe machen darfst. Eventuell kannst Du, um nicht den genauen Startpunkt anzugeben, den Weg ab einer Kreuzung in der Nähe Deines Wohnorts beginnen.
 
 
 # Aufrufen der Webseite
 
 Hier ist der [Schulwegcheck](https://www.schulwegcheck.de) verlinkt.
-Danach muss zunächst das Tab **Karte** ausgewählt werden und dann ein Passwort eingegeben werden. Zum Üben können Sie die Eingaben mit dem Testpasswort **schule** durchführen. Das tatsächliche Passwort erfahren die Schüler erst während der Befragung.
+Danach muss Du zunächst das Tab **Karte** ausgewählen und dann ein Passwort eingegeben. Zum Üben kannst Du die Eingaben mit dem Testpasswort **schule** durchführen. Eventuell helfen Dir Deine Eltern bei der Beantwortung, Du kannst Dir auch Notizen auf einen Zettel machen (z.B. genauer Name der Haltestellen) und diesen später nutzen, wenn die Befragung an der Schule durchgeführt wird. Das tatsächliche Passwort gibt Dir Dein Lehrer erst während der Befragung.
 
 ![Aufrufen](Aufrufen.gif)
 
 # Wege eingeben
 
-Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn man also mit dem Fahrrad zum Bahnhof nach Bonn fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium muss dies als drei Wege eingegeben werden. Interessant sind dabei aber nur die Wege in Sinzig, so dass die Eingabe erleichtert wird, wenn Ihr Kind nur den Fußweg vom Bahnhof zur Schule einträgt.
+Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn Du erst mit dem Fahrrad zum Bahnhof nach Bonn fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du also drei Wege eingegeben. Interessant sind dabei aber nur die Wege in Sinzig, so dass Du Dir die Eingabe erleichtern kannst, indem Du nur den Schulweg innerhalb von Sinzig einträgst.
 
 * Für jeden Weg muss der Knopf **neuer Weg** gedrückt werden.
 * Jetzt sollte das richtige Verkehrmittel am Auswahlmenü gewählt werden.
 * Das Suchfeld kann benutzt werden um einen Startpunkt zu finden.
-* Danach kann der Weg durch entsprechden Wegmarken beschrieben werden. Dabei setzt ein **einfacher Linksklick** eine Markierung.
+* Danach kann der Weg durch entsprechende Wegmarken beschrieben werden. Dabei setzt ein **einfacher Linksklick** eine Markierung.
 * Falsch gesetzte Markierungen können mit einen **doppleten Linksklick** gelöscht werden.
 * Nachdem ein Zielpunkt erreicht ist muss der Weg über den Knopf **Weg speichern** gespeichert werden.
 * Nun sollten sofort die Problemstellen für diesen Weg eingegeben werden, da immer nur der aktuelle Weg angezeigt wird!

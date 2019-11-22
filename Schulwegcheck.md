@@ -17,10 +17,10 @@ Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn man also mit 
 * Für jeden Weg muss der Knopf **neuer Weg** gedrückt werden.
 * Jetzt sollte das richtige Verkehrmittel am Auswahlmenü gewählt werden.
 * Das Suchfeld kann benutzt werden um einen Startpunkt zu finden.
-* Danach kann der Weg durch entsprechden Wegmarken beschrieben werden. Dabei setzt ein **einfacher Mausklick** eine Markierung.
-* Falsch gesetzte Markierungen können mit einen **doppleten Mausklick** gelöscht werden.
+* Danach kann der Weg durch entsprechden Wegmarken beschrieben werden. Dabei setzt ein **einfacher Linksklick** eine Markierung.
+* Falsch gesetzte Markierungen können mit einen **doppleten Linksklick** gelöscht werden.
 * Nachdem ein Zielpunkt erreicht ist muss der Weg über den Knopf **Weg speichern** gespeichert werden.
-* Nun sollten sofort die Gefahrenpunkte für diesen Weg eingegeben werden, da immer nur der aktuelle Weg angezeigt wird!
+* Nun sollten sofort die Problemstellen für diesen Weg eingegeben werden, da immer nur der aktuelle Weg angezeigt wird!
 
 ![Wege](Wege.gif)
 
@@ -28,9 +28,9 @@ Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn man also mit 
 
 Für jeden Teil des Schulwegs können mehrer Problemstelle markiert werden. 
 
-* Für jeden Gefahrenpunkt muss der Knopf **neuer Problemstelle** gedrückt werden.
+* Für jeden Problemstelle muss der Knopf **neuer Problemstelle** gedrückt werden.
 * Danach kann durch einen **einfachen Rechtsklick** ein Marker für die Problemstelle gesetzt werden.
-* Dieser Marker kann bei **gedrückter Linkermaustaste** noch verschoben werden bzw. durch **doppleten Linksklick** gelöscht werden.
+* Dieser Marker kann bei **gedrückter linker Maustaste** noch verschoben werden bzw. durch **doppleten Linksklick** gelöscht werden.
 * Danach sollte noch eine Beschreibung der Problemstelle angegeben werden (z.B. parkende Autos versperren die Sicht, kein Fußgängerüberweg, fehlender Fahrradweg, schlechte Beleuchtung etc.)
 * Die Problemstelle wird dann über **Problemstelle speichern** gesichert.
 

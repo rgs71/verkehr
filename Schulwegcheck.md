@@ -10,4 +10,21 @@ Danach muss zunächst das Tab **Karte** ausgewählt werden und dann ein Passwort
 
 ![Aufrufen](Aufrufen.gif)
 
+# Wege eingeben
 
+Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn man also mit dem Fahrrad zum Bahnhof nach Bonn fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium muss dies als drei Wege eingegeben werden. Interessant sind dabei aber nur die Wege in Sinzig, so dass die Eingabe erleichtert wird, wenn Ihr Kind nur den Fußweg vom Bahnhof zur Schule einträgt.
+
+* Für jeden Weg muss der Knopf **neuer Weg** gedrückt werden.
+* Jetzt sollte das richtige Verkehrmittel am Auswahlmenü gewählt werden.
+* Das Suchfeld kann benutzt werden um einen Startpunkt zu finden.
+* Danach kann der Weg durch entsprechden Wegmarken beschrieben werden. Dabei setzt ein **einfacher Mausklick** eine Markierung.
+* Falsch gesetzte Markierungen können mit einen **doppleten Mausklick** gelöscht werden.
+* Nachdem ein Zielpunkt erreicht ist muss der Weg über den Knopf **Weg speichern** gespeichert werden.
+* Nun sollten sofort die Gefahrenpunkte für diesen Weg eingegeben werden, da immer nur der aktuelle Weg angezeigt wird!
+
+![Wege](Wege.gif)
+
+# Gefahrenpunkte hinzufügen
+
+
+![Gefahrenpunkte](Gefahrenpunkte.gif)

@@ -37,7 +37,7 @@ Zwei sehr wichtige Fragen werden zu den Vehrkehrsmitteln, mit Denen Du zur Schul
 
 Wenn Du mit dem Fahrrad zur Schule kommst solltest Du hier jeweils pro Zeile eine Antwort angeben.
 
-![Fahhrad](Fahrrad.gif)
+![Fahrrad](Fahrrad.gif)
 
 Es gibt auch Fragen mit Freitext, die Du ausfüllen kannst.
 

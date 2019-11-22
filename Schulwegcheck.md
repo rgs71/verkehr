@@ -1,4 +1,4 @@
-# Hinweis:
+# Hinweis
 
 Die Eingabe des Schulweges erfolgt freiwillig. Informieren Sie Ihr Kind, ob es diese Angabe in der Schule machen darf. Eventuell können Sie, um nicht den genauen Startpunkt anzugeben, den Weg ab einer Kreuzung in der Nähe des Wohnorts beginnen.
 

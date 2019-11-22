@@ -31,7 +31,7 @@ Für jeden Teil des Schulwegs können mehrer Problemstelle markiert werden.
 * Für jeden Gefahrenpunkt muss der Knopf **neuer Problemstelle** gedrückt werden.
 * Danach kann durch einen **einfachen Rechtsklick** ein Marker für die Problemstelle gesetzt werden.
 * Dieser Marker kann bei **gedrückter Linkermaustaste** noch verschoben werden bzw. durch **doppleten Linksklick** gelöscht werden.
-* Danach sollte noch eine Beschreibung der Problemstelle angegeben werden (z.B. parkende Autos versperren die Sicht, kein Fussgängerüberweg, fehlender Fahrradweg, schlechte Beleuchtung etc.)
+* Danach sollte noch eine Beschreibung der Problemstelle angegeben werden (z.B. parkende Autos versperren die Sicht, kein Fußgängerüberweg, fehlender Fahrradweg, schlechte Beleuchtung etc.)
 * Die Problemstelle wird dann über **Problemstelle speichern** gesichert.
 
 ![Problemstelle](Problemstelle.gif)

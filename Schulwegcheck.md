@@ -1,3 +1,5 @@
+# Schulwegcheck
+
 ## Hinweis
 
 Die Eingabe des Schulweges erfolgt freiwillig. Sprich mit Deinen Eltern, ob Du diese Angabe machen darfst. Eventuell kannst Du, um nicht den genauen Startpunkt anzugeben, den Weg ab einer Kreuzung in der Nähe Deines Wohnorts beginnen.

@@ -15,7 +15,7 @@ Danach muss Du zunächst das Tab **Karte** auswählen und danach **Wegpunkte/Sch
 
 ## Wege eingeben
 
-Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn Du erst mit dem Fahrrad zum Bahnhof nach Bad Breisig fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du also drei Wege eingegeben. Interessant sind dabei aber nur die Wege in Sinzig, so dass Du Dir die Eingabe erleichtern kannst, indem Du nur den Schulweg innerhalb von Sinzig einträgst. Für den obigen Fall, reicht es also aus anzugeben, dass Du mit dem Zug von Bad Breisig nach Sinzig fährst (1. Weg: Bahnfahrt) und dann zu Fuß vom Sinziger Bahnhof zum RGS gehst (2. Weg: Fußweg). Wenn Du im Sommer den kompletten Schulweg mit dem Fahrrad zurücklegst, solltest Du diesen noch als 3. Weg eingeben.
+Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn Du erst mit dem Fahrrad zum Bahnhof nach Bad Breisig fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du also drei Wege eingegeben. Interessant sind dabei aber nur die Wege in Sinzig, so dass Du Dir die Eingabe erleichtern kannst, indem Du nur den Schulweg innerhalb von Sinzig einträgst. Für den obigen Fall, reicht es also aus anzugeben, dass Du mit dem Zug von Bad Breisig nach Sinzig fährst (1. Weg: Bahnfahrt) und dann zu Fuß vom Bahnhof zum RGS gehst (2. Weg: Fußweg). Wenn Du im Sommer den kompletten Schulweg mit dem Fahrrad zurücklegst, solltest Du diesen noch als 3. Weg eingeben.
 
 * Für jeden Weg muss der Knopf **neuer Weg** gedrückt werden.
 * Jetzt sollte das richtige Verkehrsmittel am Auswahlmenü gewählt werden.

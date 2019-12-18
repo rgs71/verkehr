@@ -29,7 +29,7 @@ Einige Fragen geben Dir die Möglichkeit mehrere Antworten auszuwählen. Du kann
 
 ![Mehrfachauswahl](Mehrfachauswahl.gif)
 
-### Fragen zu Vehrkehrsmitteln
+### Fragen zu Verkehrsmitteln
 
 Zwei sehr wichtige Fragen werden zu den Verkehrsmitteln, mit Denen Du je nach Wetterlage zur Schule kommst, gestellt. Dabei musst Du in **jeder Zeile** - nach den angegebene Regeln - jeweils einen Eintrag auswählen.
 **Alle nachfolgenden Fragen werden abhängig von dieser Übersicht angezeigt!** Du kannst nachfolgend also nur Fragen zu Verkehrsmitteln, die Du tatsächlich nutzt beantworten.

@@ -20,10 +20,10 @@ Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben.
 ### Beispiel
 
 Wenn Du bei schlechtem Wetter von Bad Breisig mit dem Zug nach Sinzig fährst und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du dafür zwei Wege eingegeben.
- Wenn Du außerdem bei gutem Wetter mit dem Fahrrad zur Schule kommst musst Du noch einen dritten Weg eingeben.  
- 1. Weg: Bahnfahrt Bad Breisig nach Sinzig
- 2. Weg: Fußweg Sinzig Bahnhof zum RGS
- 3. Weg: Radfahrt von Bad Breisig nach Sinzig
+ Wenn Du außerdem bei gutem Wetter mit dem Fahrrad zur Schule kommst musst Du noch einen dritten Weg eingeben.    
+    1. Weg: Bahnfahrt Bad Breisig nach Sinzig
+    2. Weg: Fußweg Sinzig Bahnhof zum RGS
+    3. Weg: Radfahrt von Bad Breisig nach Sinzig
 
 ### Eingabe
 

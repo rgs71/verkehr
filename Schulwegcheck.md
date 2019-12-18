@@ -1,5 +1,3 @@
-# Schulwegcheck
-
 ## Hinweis
 
 Die Eingabe des Schulweges erfolgt freiwillig. Sprich mit Deinen Eltern, ob Du diese Angabe machen darfst. Eventuell kannst Du, um nicht den genauen Startpunkt anzugeben, den Weg ab einer Kreuzung in der Nähe Deines Wohnorts beginnen.
@@ -15,11 +13,21 @@ Danach muss Du zunächst das Tab **Karte** auswählen und danach **Wegpunkte/Sch
 
 ## Wege eingeben
 
-Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben. Wenn Du erst mit dem Fahrrad zum Bahnhof nach Bad Breisig fährt, danach mit dem Zug zum Bahnhof Sinzig und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du also drei Wege eingegeben. Interessant sind dabei aber nur die Wege in Sinzig, so dass Du Dir die Eingabe erleichtern kannst, indem Du nur den Schulweg innerhalb von Sinzig einträgst. Für den obigen Fall, reicht es also aus anzugeben, dass Du mit dem Zug von Bad Breisig nach Sinzig fährst (1. Weg: Bahnfahrt) und dann zu Fuß vom Bahnhof zum RGS gehst (2. Weg: Fußweg). Wenn Du im Sommer den kompletten Schulweg mit dem Fahrrad zurücklegst, solltest Du diesen noch als 3. Weg eingeben.
+Der Schulweg wird jeweils für ein Verkehrsmittel eingegeben.
+
+### Beispiel
+
+Wenn Du bei schlechtem Wetter von Bad Breisig mit dem Zug nach Sinzig fährst und danach zu Fuß weiter zum Rhein-Gymnasium gehst, musst Du dafür zwei Wege eingegeben.
+ Wenn Du außerdem bei gutem Wetter mit dem Fahrrad zur Schule kommst musst Du noch einen dritten Weg eingeben.  
+ 1. Weg: Bahnfahrt Bad Breisig nach Sinzig
+ 2. Weg: Fußweg Sinzig Bahnhof zum RGS
+ 3. Weg: Radfahrt von Bad Breisig nach Sinzig
+
+### Eingabe
 
 * Für jeden Weg muss der Knopf **neuer Weg** gedrückt werden.
 * Jetzt sollte das richtige Verkehrsmittel am Auswahlmenü gewählt werden.
-* Das Suchfeld kann benutzt werden um einen Startpunkt zu finden.
+* Das **Suchfeld** kann benutzt werden um einen Startpunkt zu finden. (Zuerst zeigt die Karten einen unpassenden Kartenausschnitt.)
 * Danach kann der Weg durch entsprechende Wegmarken beschrieben werden. Dabei setzt ein **einfacher Linksklick** eine Markierung.
 * Falsch gesetzte Markierungen können mit einen **doppelten Linksklick** gelöscht werden.
 * Nachdem ein Zielpunkt erreicht ist muss der Weg über den Knopf **Weg speichern** gespeichert werden.
